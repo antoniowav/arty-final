@@ -31,5 +31,4 @@ function remove_storefront_sidebar() {
 }
 add_action( 'wp_head', 'remove_storefront_sidebar' );
 
-
 ?>

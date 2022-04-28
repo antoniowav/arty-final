@@ -3,3 +3,26 @@ Theme name: arty.
 Template: storefront
 
 */
+
+.storeContainer{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.cities:hover{
+    opacity: 70%;
+    transition: all 200ms ease;
+}
+
+.wpcf7-select{
+    width: 313.77px;
+    padding: 0.6180469716em;
+    background-color: #f2f2f2;
+    color: #43454b;
+    border: 0;
+    -webkit-appearance: none;
+    box-sizing: border-box;
+    font-weight: 400;
+    box-shadow: inset 0 1px 1px rgb(0 0 0 / 13%);
+}
