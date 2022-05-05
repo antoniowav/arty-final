@@ -14,7 +14,7 @@
 ?>
 <div class="storeContainer">
     <div class="citiesContainer">
-    <a href="<?php echo the_title();?>">
+    <a href="<?php echo the_permalink();?>">
     <h3 class="cities">
 
         <?php 
